@@ -1,4 +1,4 @@
-## SCSS Project Setting Guide
+## SCSS Basic Setting Guide
 
 ### 코드를 복사합니다.
 
